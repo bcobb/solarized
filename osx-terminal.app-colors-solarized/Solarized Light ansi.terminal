@@ -11,6 +11,10 @@
 	QXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSE9cYmRmlZqlrra5wtTX3AAAAAAAAAEB
 	AAAAAAAAABkAAAAAAAAAAAAAAAAAAADe
 	</data>
+	<key>BlinkText</key>
+	<false/>
+	<key>CommandString</key>
+	<string></string>
 	<key>CursorColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -35,6 +39,8 @@
 	<real>1.004032258064516</real>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0099999999999998</real>
+	<key>RunCommandAsShell</key>
+	<true/>
 	<key>SelectionColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -44,6 +50,8 @@
 	dmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhPXGJkZpCVoKmxtL3P0tcAAAAAAAABAQAAAAAA
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
+	<key>TerminalType</key>
+	<string>ansi</string>
 	<key>TextBoldColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -62,6 +70,8 @@
 	ZXLRFxhUcm9vdIABCBEaIy0yNztBSE9cYmRmj5SfqLCzvM7R1gAAAAAAAAEBAAAAAAAA
 	ABkAAAAAAAAAAAAAAAAAAADY
 	</data>
+	<key>UseBoldFonts</key>
+	<false/>
 	<key>UseBrightBold</key>
 	<true/>
 	<key>blackColour</key>
@@ -130,7 +140,7 @@
 	ZmZmg/4CRz+DBTzdPYMgzt4+AYY=
 	</data>
 	<key>name</key>
-	<string>Solarized Light</string>
+	<string>Solarized Light ansi</string>
 	<key>redColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
